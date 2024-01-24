@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "342639538911",
+    "firebase_url": "https://kisiler-uygulamasi-31e85-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kisiler-uygulamasi-31e85",
+    "storage_bucket": "kisiler-uygulamasi-31e85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342639538911:android:bdad1095e2118e40baef6a",
+        "android_client_info": {
+          "package_name": "com.example.kisiler_uygulamasi_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTSD7Y8XtY9qIAE-8GMHfsBwE3Jpn9S9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
